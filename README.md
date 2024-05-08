@@ -108,7 +108,7 @@ visualize_product_data(products)
 ### Output:
 !<img src="https://github.com/kaviya2839/WDM_EXP8/assets/120553351/a4bcc804-8a3e-4e4f-93f4-e4dd38fa6b54" width="500" height="300" />
 
-!<img src="https://github.com/kaviya2839/WDM_EXP8/assets/120553351/7fc40b34-663b-4ec4-ba04-2e2f523eda35" width="500" height="300" />
+<img src="https://github.com/kaviya2839/WDM_EXP8/assets/120553351/7fc40b34-663b-4ec4-ba04-2e2f523eda35" width="500" height="300" />
 
  
 
